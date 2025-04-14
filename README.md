@@ -4,6 +4,8 @@
 [Labs](assignments/README.md) |
 [Presentation](presentation/README.md) |
 
+<img src="img/home.png?raw=yes"> 
+
 ## NSF REU Site: Trustworthy AI
 With the widespread use of AI in areas such as transportation, finance, medicine, security, and entertainment, there is a rising societal awareness that these systems must be made trustworthy. An improperly developed AI system can lead to many undesirable outcomes ranging from biased treatments in hiring and loan decisions, to the wrongful release of prisoners, to the loss of human life. If such negative outcomes persist, human users will eventually lose trust in AI systems.
 
@@ -17,7 +19,7 @@ To face this challenge, AI trustworthiness has been the focus of federal governm
    
  - Improve educational pathways to advanced trustworthy AI research and development careers through student involvement in expert speaker series and additional professional development activities.
 
-## Faculty mentors
+## Faculty Mentors
 
 [<img width=100 src="img/people/DQ.png?raw=yes">](https://www.rit.edu/computing/directory/dqvse-daqing-hou) 
 [<img width=100 src="img/people/ZheYu.png?raw=yes">](https://www.rit.edu/computing/directory/zxyvse-zhe-yu) 
