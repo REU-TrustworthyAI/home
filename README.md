@@ -20,11 +20,8 @@ To face this challenge, AI trustworthiness has been the focus of federal governm
 ## Faculty mentors
 
 [<img width=100 src="img/people/DQ.png?raw=yes">](https://www.rit.edu/computing/directory/dqvse-daqing-hou) 
-
 [<img width=100 src="img/people/Zhe.png?raw=yes">](https://www.rit.edu/computing/directory/zxyvse-zhe-yu) 
-
 [<img width=100 src="img/people/Nidhi.png?raw=yes">](https://www.rit.edu/computing/directory/nxrvse-nidhi-rastogi) 
-
 [<img width=100 src="img/people/Ashique.png?raw=yes">](https://www.rit.edu/computing/directory/axkvse-ashique-khudabukhsh) 
 
 
