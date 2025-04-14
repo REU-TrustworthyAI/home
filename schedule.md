@@ -1,9 +1,8 @@
-[<img width=900 src="img/title.png?raw=yes">](README.md)   
-[Syllabus](README.md) |
-[Schedule](schedule.md) |
-[Assignments](assignments/README.md) |
-[Term Paper](termpaper/README.md) |
-[Instructor](http://zhe-yu.github.io) 
+[<img width=900 src="img/logo_rit.png?raw=yes">](README.md)   
+[Home](README.md) |
+[Crash Course](schedule.md) |
+[Labs](assignments/README.md) |
+[Presentation](presentation/README.md) |
 
 ## Course Schedule
 
