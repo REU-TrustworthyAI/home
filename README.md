@@ -1,47 +1,39 @@
 [<img width=900 src="img/logo_rit.png?raw=yes">](README.md)   
-[Syllabus](README.md) |
-[Schedule](schedule.md) |
-[Assignments](assignments/README.md) |
-[Term Paper](termpaper/README.md) |
-[Instructor](http://zhe-yu.github.io) 
+[Home](README.md) |
+[Crash Course](schedule.md) |
+[Labs](assignments/README.md) |
+[Presentation](presentation/README.md) |
 
-## Course Description
-Hallmarks of AI are systems that exhibit human-like behaviors, and that they rely on continuous preparation and deployment of data resources as new tasks emerge. In this course, students develop their conceptual, applied, and critical understanding about (1) experimental principles and methods guiding the collection, validation, and deployment of human data resources for AI systems; (2) human-centered AI concepts and techniques including dataset bias, debiasing, AI fairness, humans-in-the loop methods, explainable AI, trust, and (3) best practices for technical writing and presentation about AI research. As a milestone, based on research review, students will write and present an experimental design proposal for dataset elicitation followed by computational experimentation, with description and visualization of the intended experiment setup, as well as critical reflection of benefits, limitations, and implications in the context of AI system development and deployment. 
+## NSF REU Site: Trustworthy AI
+With the widespread use of AI in areas such as transportation, finance, medicine, security, and entertainment, there is a rising societal awareness that these systems must be made trustworthy. An improperly developed AI system can lead to many undesirable outcomes ranging from biased treatments in hiring and loan decisions, to the wrongful release of prisoners, to the loss of human life. If such negative outcomes persist, human users will eventually lose trust in AI systems.
 
-## Course Learning Outcomes
+To face this challenge, AI trustworthiness has been the focus of federal government as well as institutions and academic initiatives like the AI Now Institute and the ACM Conference on Fairness, Accountability and Transparency. In response, the goal of this project at Rochester Institute of Technology (RIT) is to encourage talented undergraduate students to pursue graduate study and research careers by engaging them in exciting and meaningful research experiences in developing trustworthy AI and by cultivating their talents during their summer experiences and beyond.
 
-Students completing this course are expected to
+## Objectives
 
- - Conduct independent research.
- - Understand basic challenges and techniques for human-centered AI.
- - Develop the ability to solve real-world problems using machine learning.
+ - Engage a total of 10 students annually from traditionally underrepresented groups or colleges and universities with limited research opportunities and immerse students in ongoing research projects in the development of trustworthy AI for social good.
+   
+ - Cultivate talented students to effectively plan, conduct, and communicate scientific research through meaningful and engaging research projects, close and effective mentoring, weekly group meetings, mentor training, and public presentations.
+   
+ - Improve educational pathways to advanced trustworthy AI research and development careers through student involvement in expert speaker series and additional professional development activities.
 
-## Syllabus and Policies
-The course uses Github for assignment submission, discussion, questions. Slides, assignments, and recorded videos will be posted here.
+## Faculty mentors
 
-**Prerequisites**: IDAI-610 and IDAI-700 or equivalent courses are required before taking this course. Also note that GitHub are required for submitting assignments and [Assignment 0](assignments/assignment0.md) provides learning materials to help students with those.
+[<img width=100 src="img/people/DQ.png?raw=yes">](https://www.rit.edu/computing/directory/dqvse-daqing-hou) 
 
-**Grading**: Evaluation will be based on the following distribution: 10% quizzes/attendance, 30% assignments, 60% term paper. A detailed grading policy can be found at the end of the description of each assignment and project.
-| Grade | Points      |   | Grade | Points   |
-|-------|-------------|---|-------|----------|
-| A     | 93 or above |   | B-    | 80 – 82  |
-| A-    | 90 – 92     |   | C+    | 77 – 79  |
-| B+    | 87 – 89     |   | C     | 70 – 76  |
-| B     | 83 – 86     |   | F     | Below 70 |
+[<img width=100 src="img/people/Zhe.png?raw=yes">](https://www.rit.edu/computing/directory/zxyvse-zhe-yu) 
 
-**Late work policy**: The TA will start grading assignments after the due date. Late work in assignments will not be graded. Exceptions to this policy will be made only in extraordinary circumstances, almost always involving a family or medical emergency---with your academic advisor or the Dean of Student Affairs requesting the exception on your behalf. Accommodations for travel (e.g., for interviews) might be possible if requested at least 3 days in advance. 
+[<img width=100 src="img/people/Nidhi.png?raw=yes">](https://www.rit.edu/computing/directory/nxrvse-nidhi-rastogi) 
 
-**Team work**: Discussions between students are welcomed but each student should complete their assignments and project independently. Identical or extremely similar submissions will still be considered as cheating. Questions that cannot be resolved between students should be posted as a new issue on this repo for discussion.
+[<img width=100 src="img/people/Ashique.png?raw=yes">](https://www.rit.edu/computing/directory/axkvse-ashique-khudabukhsh) 
 
-**Academic Integrity**: Students are encouraged to discuss the assignments and projects with each other, especially in their study group. But do not copy finished assignments or projects from other students' Github repos. Up to 90% of the learning in this course comes from completing the assignments and the term paper. Skipping the assignments and the project is a huge waste to your effort spent on this course. In the meantime, students need to confront the TA or the instructor if their submissions were found too similar.
 
-**Generative AI tools**: Coding solutions must be your own work, which means you cannot use generative AI tools in any manner to write your programs. When learning fundamental skills, you need to ensure that you master the basics. If I doubt authorship, I may ask you to explain the code or re-create aspects of the code in one of our labs – you must show that you have mastered the fundamentals. However, you can use any opensource resources for your term paper (as long as it does not require any external dependency that the grader may not have) including generative AI tools (but not using it to WRITE the paper).
+## Important Dates
+ - Application deadline: 11:59pm, Friday February 28, 2025. Apply at [NSF’s ETAP website](https://etap.nsf.gov/award/7605/opportunity/10359).
 
-In short:
- - Homework assignments: generative AI &#x2612;
- - Term paper: generative AI &#x2611; 
+ - Notification of acceptance: Monday March 17, 2025
 
-**Accommodations for students with disabilities**: If you have a disability and have an accommodations letter from the Disability Resources office, we encourage you to discuss your accommodations and needs with us as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, we encourage you to contact them at dso@rit.edu.
+ - REU Site program: 10 weeks, Monday May 26 to Friday August 1, 2025
 
-**A note on self-care**: Please take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. All of us benefit from support during times of struggle. You are not alone. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is often helpful. If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. [Counseling and Psychological Services (CaPS)](https://www.rit.edu/studentaffairs/counseling/) is here to help: call 585-475-2261 for urgent matters or email <caps@rit.edu> for non-urgent cases. Please also consider reaching out to a friend, faculty, or family member you trust for help getting connected to the support that can help.
+
 
