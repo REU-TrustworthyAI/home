@@ -4,7 +4,7 @@
 [Labs](assignments/README.md) |
 [Presentation](presentation/README.md) |
 
-## Course Schedule
+## Crash Course Schedule
 
 | Session | Lecture                | Lab      | 
 |------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------|
