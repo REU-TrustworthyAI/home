@@ -1,8 +1,8 @@
 [<img width=900 src="img/logo_rit.png?raw=yes">](README.md)   
 [Home](README.md) |
 [Crash Course](schedule.md) |
-[Labs](assignments/README.md) |
-[Presentation](presentation/README.md) |
+[Labs](labs/labs.md) |
+[Presentation](labs/presentation.md) |
 
 <img src="img/home.jpg?raw=yes"> 
 
