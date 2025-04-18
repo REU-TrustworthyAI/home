@@ -1,9 +1,8 @@
-[<img width=900 src="../img/title.png?raw=yes">](../README.md)   
-[Syllabus](../README.md) |
+[<img width=900 src="../img/logo_rit.png?raw=yes">](../README.md)   
+[Home](../README.md) |
 [Schedule](../schedule.md) |
-[Assignments](../assignments/README.md) |
-[Term Paper](README.md) |
-[Instructor](http://zhe-yu.github.io) 
+[Labs](labs.md) |
+[Presentation](presentation.md) |
 
 ## Literature Review
 
