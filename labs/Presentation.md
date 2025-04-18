@@ -9,7 +9,7 @@
  | Requirement | Description | 
  |------------|--------|
  | Structure | problem, related work, methodology, experiments, and discussion | 
- | Timing | This is an "elevator speech". You only have 8-10 min to explain your project (this is really good practice for your future job interviews!) so stay on message and make every word out of your mouths count | 
+ | Timing | You have 8-10 min to explain your project (this is really good practice for your future job interviews!) so stay on message and make every word out of your mouths count | 
  | Visuals to support the presentation | Plan on max. 7-8 slides (excluding your title slide), and speaking 1 min/slide (slides are a great pacemaker, use them as such!). Visuals should support your talk, not replicate it; put figures and diagrams and plots in slides and use spoken words to explain them | 
  | Answering questions | Demonstrate mastery of your topic and your chosen method(s) in your answers to questions from the audience | 
 
