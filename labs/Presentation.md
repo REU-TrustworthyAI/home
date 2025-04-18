@@ -1,18 +1,17 @@
-[<img width=900 src="../img/title.png?raw=yes">](../README.md)   
-[Syllabus](../README.md) |
+[<img width=900 src="../img/logo_rit.png?raw=yes">](../README.md)   
+[Home](../README.md) |
 [Schedule](../schedule.md) |
-[Assignments](../assignments/README.md) |
-[Term Paper](README.md) |
-[Instructor](http://zhe-yu.github.io) 
+[Labs](labs.md) |
+[Presentation](presentation.md) |
 
 ## Presentation
  
- | Requirement | Description | Score |
- |------------|--------|--------|
- | Structure | problem, related work, methodology, experiments, and discussion | 4 points|
- | Timing | This is an "elevator speech". You only have 5-8 min to explain your project (this is really good practice for your future job interviews!) so stay on message and make every word out of your mouths count | 2 points|
- | Visuals to support the presentation | Plan on max. 5-7 slides (excluding your title slide), and speaking 1 min/slide (slides are a great pacemaker, use them as such!). Visuals should support your talk, not replicate it; put figures and diagrams and plots in slides and use spoken words to explain them | 2 points|
- | Answering questions | Demonstrate mastery of your topic and your chosen method(s) in your answers to questions from the audience | 2 points|
+ | Requirement | Description | 
+ |------------|--------|
+ | Structure | problem, related work, methodology, experiments, and discussion | 
+ | Timing | This is an "elevator speech". You only have 8-10 min to explain your project (this is really good practice for your future job interviews!) so stay on message and make every word out of your mouths count | 
+ | Visuals to support the presentation | Plan on max. 7-8 slides (excluding your title slide), and speaking 1 min/slide (slides are a great pacemaker, use them as such!). Visuals should support your talk, not replicate it; put figures and diagrams and plots in slides and use spoken words to explain them | 
+ | Answering questions | Demonstrate mastery of your topic and your chosen method(s) in your answers to questions from the audience | 
 
 
 ## Link
