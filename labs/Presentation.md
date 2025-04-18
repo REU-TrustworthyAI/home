@@ -16,4 +16,4 @@
 
 ## Link
 
-Use Google slides and put your url into this [sheet](https://docs.google.com/spreadsheets/d/1V_nL3YxqgevpsubZYKrFYXezbM1kMi4OLMY60mxUB0A).
+Use Google slides and put your url into this [sheet](https://docs.google.com/spreadsheets/d/1w6aNToF7cyjsaXNpmJNCxZmzXrB5BWu0F6thpt_bnKk/edit?usp=sharing).
