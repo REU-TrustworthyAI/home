@@ -17,7 +17,7 @@
 |   Session 6   | [Data Preprocessing](https://docs.google.com/presentation/d/1mu9l9DevaAxvxL7I_yxRmhEJm4hr_oU8TYKWh6nCOEk)   |  [Term Paper 4](termpaper/TP4.md)      | 
 |  Session 7    | [Evaluation](https://docs.google.com/presentation/d/1Ky57EmJNQF7jwr0tpt_5D4XNasSu5aEwXTu_dj6GY3w)            |  | 
 |   Session 8   | [Validation and Testing](https://docs.google.com/presentation/d/1d3DlJlJyZX-RjOje_3p2LyapwACIOs_3mvaNk5teSaE)   | [Term Paper 5](termpaper/TP5.md) | 
-|   Session 9   | [Model Training](https://docs.google.com/presentation/d/1d3DlJlJyZX-RjOje_3p2LyapwACIOs_3mvaNk5teSaE) |           |
+|   Session 9   | [Model Training](../labs/train.md) |           |
 |   Session 10  | [Discussion and Conclusion](https://docs.google.com/presentation/d/10Jab3YQPEH1y_wCTjQRHbirkf8AsRtqn_DxIUmruGNA)  | [Term Paper 6](termpaper/TP6.md) |
 |   Session 11   | [Peer Review](https://docs.google.com/presentation/d/1mG4wa-H8BKbbemCVMG0r3yOATOM6M-N-JG48EOoa32o/edit?usp=sharing)       |  |
 |   Session 12   | [Example Presentation Slides](https://docs.google.com/presentation/d/1WwD4gIJob9wMQRw-KFG1P3CboP7Hl8v_-8lL2DMW-Q0/edit?usp=sharing)    |   [Presentation](termpaper/Presentation.md)        |      
