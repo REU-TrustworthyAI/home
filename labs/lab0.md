@@ -53,46 +53,6 @@
 ## Initialize your repo
 
 - Clone this repo **home** to your local machine
-- Copy everything from this repo to your created **IDAI-720** repo on your local machine **(Don't forget the .gitignore)**
-- Push the changes of the **IDAI-720** repo so that it is now **identical** to this repo
-- **Attention:** do not add extra layers to the repo- your private repo should look exactly like this repo
+- Copy everything under the _lab/_ directory from this repo to your private repo on your local machine **(Don't forget the .gitignore)**
+- Push the changes of your private repo to GitHub server.
 
-## Use the Clusters
-
-- Log into the GCCIS cluster assigned to you on the [Google sheet](https://docs.google.com/spreadsheets/d/1w6aNToF7cyjsaXNpmJNCxZmzXrB5BWu0F6thpt_bnKk/edit?usp=sharing) with your RIT username:
-```
-ssh RIT-USERNAME@narnia.gccis.rit.edu
-```
-- Clone your **IDAI-720** repo
- ```
- git clone THE-REPO-URL
- ```
-### Install required packages.
-
-- Install miniforge first. (more [documentation](https://wiki.cs.rit.edu/index.php/MiniForge3)):
-```
-cd $HOME
-wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh
-sh $HOME/Miniforge3-Linux-x86_64.sh
-```
-- And then activate conda **(you need to run this every time you close and reopen your terminal)**:
-```
-source ~/miniforge3/bin/activate
-```
-- Create a virtual environment tf2_gpu_env and activate it (python 3.11 or older is recommended):
-```
-conda create -n tf2_gpu_env python==3.11.11
-conda activate tf2_gpu_env
-```
-- Install tensorflow (tensorflow 2.15.1 or older is recommended, more [documentation](https://www.tensorflow.org/install/pip))
-```
-pip install --upgrade pip
-pip install tensorflow[and-cuda]==2.15.1
-```
- 
-- Install [pandas](https://pandas.pydata.org/) and [pillow](https://pypi.org/project/Pillow/), downgrade numpy for compatibility issues
-```
-conda install pandas
-conda install pillow
-conda install numpy==1.26.4
-```
