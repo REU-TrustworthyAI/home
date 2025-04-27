@@ -35,7 +35,7 @@
 
 spack unload -a
 ## Load ml environment with spack
-spack load default-ml-x86_64-24071101
+spack env activate default-ml-x86_64-24071101
 ## Execute target code
 python3 main.py
 
