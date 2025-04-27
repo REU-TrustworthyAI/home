@@ -2,42 +2,65 @@
 [Home](../README.md) |
 [Schedule](../schedule.md) |
 
-## Data Annotation
+## Research Computing Exercise
 
-### 1. Copy the image files to your local machine.
+### 1. Login.
 - open a terminal on your local machine
 ```
-scp -r RIT-USERNAME@narnia.gccis.rit.edu:/local/datasets/idai720/images TARGET-LOCAL-DIRECTORY/IDAI-720/assignments/
+ssh RIT-USERNAME@sporcsubmit.rc.rit.edu
 ```
+- Enter your password for your RIT account.
+- Use DUO app to allow the access when nothing prompts:
+![Screenshot 2025-04-27 161457](https://github.com/user-attachments/assets/781923b0-6b02-47e9-a58b-247ce56938f4)
+- Once you have successfully logged in, check your account information:
+```
+[RIT-USERNAME@sporcsubmit ~]$  my-accounts
+```
+- Clone your GitHub repo:
+```
+[RIT-USERNAME@sporcsubmit ~]$ git clone https://github.com/REU-TrustworthyAI/YOUR-REPO.git
+```
+### 2. Learn basics of Slurm and Spack.
+- Slurm tutorial: https://research-computing.git-pages.rit.edu/docs/slurm_quick_start_tutorial.html
+- Spack tutorial: https://research-computing.git-pages.rit.edu/docs/software_tutorial.html
 
-### 2. Annotate every image in [train.csv](data/train.csv) and [test.csv](data/test.csv).
-- Open the corresponding image
-- Give your own binary rating on the image (_1_ if you think the face is beautiful, otherwise _0_)
-- Fill in your ratings in the _"Rating"_ column in both files (you need to rate 100 + 100 images)
+### 3. Run the example code in the interactive mode.
+```
+[RIT-USERNAME@sporcsubmit YOUR-REPO]$ sinteractive
 
-### 3. Get the annotated data files to your CS Cluster.
-- Push the local changes (of train.csv and test.csv) to your GitHub repo.
-- Log into your CS Cluster and pull from the GitHub repo.
+Account [hilse,reu,rc-onboard]: reu
+Core count: 2
+Run time [Max: 12:00:00]: 0-6:0:0
 
-## Train a VGG-16 model on train.csv and test it on test.csv
-- Get to _src/_
-- Modify the GPU to use in the [vgg_pre.py](src/vgg_pre.py) file
-```
-os.environ["CUDA_VISIBLE_DEVICES"]="0" # Change the number 0 to your corresponding GPU ID in the Google Sheet
-```
-- Run the A1.py file
-```
-(tf2_gpu_env) YOUR-PATH/IDAI-720/assignments/src$ python3 A1.py
-```
-This will usually takes 5-10 minutes on the GPU node but will take hours on your laptop with CPUs.
-- Take a screenshot when it is done:
-![Screenshot A1](screenshots/A1.png)
-- Save the screenshot as [_/screenshots/A1.png_](screenshots/A1.png).
-- Push everything to GitHub repo.
+If the Job cannot begin within 120 seconds, it will be auto canceled
 
-## Rubric
-- 2 points if the screenshot of A1.png exists (and is different from the example above).
-- 2 points if the training accuracy shown in the screenshot is higher than 0.8.
-- 2 points if the testing accuracy reported at the end is higher than 0.6.
-- **Note**: consider re-annotate more carefully if the training or testing accuracy is low.
+Submitting Job!
+
+[RIT-USERNAME@clx-a-01 YOUR-REPO]$ cd lab1
+[RIT-USERNAME@clx-a-01 lab1]$ spack env activate default-ml-x86_64-24071101
+[RIT-USERNAME@clx-a-01 lab1]$ python3 main.py
+[RIT-USERNAME@clx-a-01 lab1]$ exit
+```
+## Submit a job
+- Edit the run.sh file
+- Submit a job using the run.sh file:
+```
+[RIT-USERNAME@clx-a-01 lab1]$ sbatch run.sh
+```
+- Show all your jobs:
+```
+[RIT-USERNAME@clx-a-01 lab1]$ squeue --me
+```
+- Cancel a job:
+```
+[RIT-USERNAME@clx-a-01 lab1]$ scancel JOB-NUMBER
+```
+- Cancel all your jobs:
+```
+[RIT-USERNAME@clx-a-01 lab1]$ scancel --me
+```
+- Log out:
+```
+[RIT-USERNAME@clx-a-01 lab1]$ exit
+```
  
