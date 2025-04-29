@@ -5,7 +5,7 @@
 #SBATCH -J lab1
 
 ## Use the resources available on this account
-#SBATCH -A loop
+#SBATCH -A reu-aisocial
 
 ## Standard out and Standard Error output files 
 #SBATCH -o %log.o
