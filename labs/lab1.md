@@ -15,6 +15,10 @@ ssh RIT-USERNAME@sporcsubmit.rc.rit.edu
 - Once you have successfully logged in, check your account information:
 ```
 [RIT-USERNAME@sporcsubmit ~]$  my-accounts
+  Account Name     Expired  QOS              Allowed Partitions
+- ------------     -------  ---              ------------------
+  rc-onboard       false    qos_onboard      onboard
+* reu-aisocial     false    qos_tier3        scavenger,tier3,grace,debug,onboard,interactive,ood
 ```
 - Clone your GitHub repo:
 ```
@@ -28,7 +32,7 @@ ssh RIT-USERNAME@sporcsubmit.rc.rit.edu
 ```
 [RIT-USERNAME@sporcsubmit YOUR-REPO]$ sinteractive
 
-Account [hilse,reu,rc-onboard]: reu
+Account [hilse,reu,rc-onboard]: reu-aisocial
 Core count: 2
 Run time [Max: 12:00:00]: 0-6:0:0
 
