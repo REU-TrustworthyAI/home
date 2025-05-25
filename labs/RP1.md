@@ -9,4 +9,5 @@
  - Deliverables: A RP1.pdf file with Title, Abstract, and Introduction generated using Latex
     + Problem statement (What is the problem/hypothesis?)
     + Motivation (Why is this problem important? What are the benefits of solving it?)
-
+    + The introduction should extend the abstract with more details
+    + The claims in the introduction should be well supported by data or references
