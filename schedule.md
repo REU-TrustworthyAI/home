@@ -18,4 +18,4 @@
 |   Session 9   | [Model Training](labs/train.md) |           | |
 |   Session 10  | [Discussion and Conclusion](https://docs.google.com/presentation/d/10Jab3YQPEH1y_wCTjQRHbirkf8AsRtqn_DxIUmruGNA)  | [Research Proposal 6](labs/RP6.md) | [Graduate study](labs/PD2.md) |
 |   Session 11   | [Peer Review](https://docs.google.com/presentation/d/1mG4wa-H8BKbbemCVMG0r3yOATOM6M-N-JG48EOoa32o/edit?usp=sharing)       |  | [PhD pathway](labs/PD3.md) |
-|   Session 12   | [Example Presentation Slides](https://docs.google.com/presentation/d/1WwD4gIJob9wMQRw-KFG1P3CboP7Hl8v_-8lL2DMW-Q0/edit?usp=sharing)    |   [Presentation](labs/Presentation.md)        |      [Oral presentation](labs/PD4.md) |
+|   Session 12   | [Example Presentation Slides](https://docs.google.com/presentation/d/1WwD4gIJob9wMQRw-KFG1P3CboP7Hl8v_-8lL2DMW-Q0/edit?usp=sharing)    |   [Presentation](labs/presentation.md)        |      [Oral presentation](labs/PD4.md) |
