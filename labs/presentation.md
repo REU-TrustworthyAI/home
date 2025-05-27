@@ -3,6 +3,8 @@
 [Schedule](../schedule.md) |
 
 ## Presentation
+
+[Example Presentation Slides](https://docs.google.com/presentation/d/1WwD4gIJob9wMQRw-KFG1P3CboP7Hl8v_-8lL2DMW-Q0/edit?usp=sharing)
  
  | Requirement | Description | 
  |------------|--------|
