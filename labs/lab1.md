@@ -17,7 +17,6 @@ ssh RIT-USERNAME@sporcsubmit.rc.rit.edu
 [RIT-USERNAME@sporcsubmit ~]$  my-accounts
   Account Name     Expired  QOS              Allowed Partitions
 - ------------     -------  ---              ------------------
-  rc-onboard       false    qos_onboard      onboard
 * reu-aisocial     false    qos_tier3        scavenger,tier3,grace,debug,onboard,interactive,ood
 ```
 - Clone your GitHub repo:
