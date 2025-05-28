@@ -23,6 +23,10 @@
 
 ### 3. Save username and token in git.
  - Create your personal access token on [this page](https://github.com/settings/tokens)
+   + Generate new token (Classic)
+   + Select No expiration and check all access permissions
+   ![Untitled](https://github.com/user-attachments/assets/1801b90f-836c-4f2e-a9e2-92cd68ef869e)
+
  - Copy the generated token.
  - In terminal:
  ```
