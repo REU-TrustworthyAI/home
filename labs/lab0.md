@@ -15,7 +15,6 @@
  
  - (2) Initiate the new private repo:
  
- - (3) Invite the faculty mentors (GitHub ID: **azhe825, daqinghou, AI4Sec, khudabukhsh**)
 
 ### 2. Clone the created repo to your local machine.
  ```
