@@ -11,9 +11,9 @@
  - Add your GitHub username to [Google sheet](https://docs.google.com/spreadsheets/d/1w6aNToF7cyjsaXNpmJNCxZmzXrB5BWu0F6thpt_bnKk/edit?usp=sharing).
 
 ### 1. Create a new PRIVATE repository under this organization [REU-TrustworthyAI](https://github.com/REU-TrustworthyAI).
- - (1) Click on the **new** button:
+ - (1) Click on the **new** button.
  
- - (2) Initiate the new private repo:
+ - (2) Initiate the new private repo.
  
 
 ### 2. Clone the created repo to your local machine.
