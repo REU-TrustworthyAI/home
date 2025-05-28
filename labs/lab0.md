@@ -30,7 +30,18 @@
  ```
  - When running this command, the first time you pull or push from the remote repository, you'll get asked about the username and your token (NOT Password!). Afterwards, for consequent communications with the remote repository you don't have to provide the username and password.
 
-### 4. Working with a github repo.
+### 4. Initialize your repo
+
+- Clone this repo **home** to your local machine
+- Copy everything under the _lab/_ directory from this repo to your private repo on your local machine **(Don't forget the .gitignore)**
+- Push the changes of your private repo to GitHub server.
+ ```
+ Your-Repo> git add .
+ Your-Repo> git commit -m "YOUR COMMIT MESSAGE"
+ Your-Repo> git push
+ ```
+
+### 5. Working with a github repo.
  - (1) Go to the local directory of the repo.
  - (2) Pull from Github so that the content on your local machine is updated with the remote server of Github:
  ```
@@ -44,12 +55,8 @@
  Your-Repo> git push
  ```
  
- ### 5. Add your information to [Google sheet](https://docs.google.com/spreadsheets/d/1w6aNToF7cyjsaXNpmJNCxZmzXrB5BWu0F6thpt_bnKk/edit?usp=sharing)
+ ### 6. Add your information to [Google sheet](https://docs.google.com/spreadsheets/d/1w6aNToF7cyjsaXNpmJNCxZmzXrB5BWu0F6thpt_bnKk/edit?usp=sharing)
  - Add your github repo url (along with your RIT identifier and Github ID) to the Google sheet.
 
-## Initialize your repo
 
-- Clone this repo **home** to your local machine
-- Copy everything under the _lab/_ directory from this repo to your private repo on your local machine **(Don't forget the .gitignore)**
-- Push the changes of your private repo to GitHub server.
 
