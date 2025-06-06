@@ -1,6 +1,7 @@
 [<img width=900 src="../img/logo_rit.png?raw=yes">](../README.md)   
 [Home](../README.md) |
 [Schedule](../schedule.md) |
+[Memory](../memory.md) |
 
 ## Oral Presentation
  - [Oral presentation](https://docs.google.com/presentation/d/1J_caFfND0S5mZ7JWuejWmT84tiOrxhPO/edit?usp=drive_link&ouid=116378854559746767728&rtpof=true&sd=true)
