@@ -20,6 +20,6 @@
 <img src="img/photos/06-05-2025-1.jpeg?raw=yes"> 
 
 ### Dinner Fun: Prof Nidhi Rastogi and Lab students, 06/05/2025
-<img src="img/photos/IMG_7959.jpg>
+<img src="img/photos/IMG_7959.jpg">
 
 
