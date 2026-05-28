@@ -6,7 +6,8 @@
 ## Experiment
 
 - Design your experiment
- - Deliverables: A RP5.pdf file with RP4.pdf + more Experimental Design
+ - Deliverables: 1-2 pages describing your experiment design.
    + Performance metrics to evaluate different treatments
    + How will you conduct the experiments? (cross-validation, random repeats, how to split training-testing)
    + Statistical tests to show your approach is better than the baselines
+   + Expected results (successful criteria)
