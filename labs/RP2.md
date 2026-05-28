@@ -7,8 +7,8 @@
 
  - Literature review (with proper keywords, inclusion criteria)
  - Feasibility (Room to improve? Data available?)
- - Deliverables: A RP2.pdf file with RP1.pdf + Related Work
+ - Deliverables: 1 - 2 pages of related work in the slides
    + How others have tried to solve the problem?
    + What are the limitations of their work?
-   + Support your claims in the introduction.
+   + Support your claims in the motivation.
 
