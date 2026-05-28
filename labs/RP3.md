@@ -6,7 +6,7 @@
 ## Methodology
 
  - Develop your method 
- - Deliverables: A RP3.pdf file with RP2.pdf + Methodology
+ - Deliverables: 1-2 pages describing your proposed method
    + How do you plan to solve the problem?
    + Why should your method solve the problem?
    + What baselines are you going to compare against in the experiments?
