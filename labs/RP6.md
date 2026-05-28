@@ -6,7 +6,7 @@
 ## Discussion and Conclusion
 
  - Assume your hypothesis is valid
- - Deliverables: A RP6.pdf file with RP5.pdf + Discussion and Conclusion
+ - Deliverables: 1-2 pages concluding the research
    + Potential impact
    + Limitations
    + Threats to validity
