@@ -41,7 +41,7 @@ If the Job cannot begin within 120 seconds, it will be auto canceled
 Submitting Job!
 
 [RIT-USERNAME@clx-a-01 YOUR-REPO]$ cd lab1
-[RIT-USERNAME@clx-a-01 lab1]$ spack env activate default-ml-x86_64-24071101
+[RIT-USERNAME@clx-a-01 lab1]$ spack env activate default-ml-x86_64-25052701
 [RIT-USERNAME@clx-a-01 lab1]$ python3 main.py
 [RIT-USERNAME@clx-a-01 lab1]$ exit
 ```
