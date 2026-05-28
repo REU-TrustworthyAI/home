@@ -6,7 +6,7 @@
 ## Experiment
 
  - Design your experiment
- - Deliverables: A RP4.pdf file with RP3.pdf + Experimental Design
+ - Deliverables: 1-2 pages describing the data to use
    + Datasets to use
    + Data preprocessing
 
