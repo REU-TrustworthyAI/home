@@ -20,3 +20,4 @@
   - [Active Learning](https://docs.google.com/presentation/d/1rJTOuDhh9qLGhww-_7P8UiafHYuEMbBpxPR2gVBrCMQ/edit?usp=sharing)
   - [Reinforcement Learning](https://docs.google.com/presentation/d/17V9bAffgtSUKe7cqTm3WobFMAS51d5mBIT9nwKpFNgI/edit?usp=sharing)
   - [Self-supervised Learning](https://docs.google.com/presentation/d/19_82SE0_Essj2vbk_RUaRa3eXHlZSA2oYwb21_IbXJw/edit?usp=sharing)
+  - [Transformers](https://docs.google.com/presentation/d/1nKIprK6jYiK9LoQMQUXYzFEq3LflX1ym/edit?usp=sharing&ouid=116378854559746767728&rtpof=true&sd=true)
