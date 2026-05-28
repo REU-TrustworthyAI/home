@@ -60,7 +60,7 @@
  Your-Repo> git push
  ```
  
- ### 6. Add your information to [Google sheet](https://docs.google.com/spreadsheets/d/1w6aNToF7cyjsaXNpmJNCxZmzXrB5BWu0F6thpt_bnKk/edit?usp=sharing)
+ ### 6. Add your information to [Google sheet](https://docs.google.com/spreadsheets/d/1B_OjE-fOsIqedq_TTTTteLXD_pV51KFC90qzZ497YGo/edit?usp=sharing)
  - Add your github repo url (along with your RIT identifier and Github ID) to the Google sheet.
 
 
