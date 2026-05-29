@@ -10,7 +10,7 @@
 |------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------|---|
 | Session 1     | [Research, Science, and Engineering](https://docs.google.com/presentation/d/1tbPW2XRcJ_D0FbS3BDCk2vG8HXcbf7v0BWF_epRR8_E)  | [Lab 0](labs/lab0.md), [Lab 1](labs/lab1.md) | |
 |   Session 2   |        [General Machine Learning Process](https://docs.google.com/presentation/d/1HUm9mzVIxVper2thIydd0HuerJ__3mpE9m0jtNg0kig)              |   [Research Proposal 1](labs/RP1.md)    | |
-|   Session 3   |       [Literature Review](https://docs.google.com/presentation/d/1G5nPLcNzGhsnqB-Rbl3ZdsLs5acnvgDe4geS-bzqRQw) [AI Advisor?](https://docs.google.com/presentation/d/1PqttvlGxg9JO-k89vJVeZm3szkQlCy3Ryb-dYC4zvu8/edit?usp=sharing)   | [Research Proposal 2](labs/RP2.md) | [Manage your mentor](labs/PD1.md) |
+|   Session 3   |       [Literature Review](https://docs.google.com/presentation/d/1G5nPLcNzGhsnqB-Rbl3ZdsLs5acnvgDe4geS-bzqRQw), [AI Advisor?](https://docs.google.com/presentation/d/1PqttvlGxg9JO-k89vJVeZm3szkQlCy3Ryb-dYC4zvu8/edit?usp=sharing)   | [Research Proposal 2](labs/RP2.md) | [Manage your mentor](labs/PD1.md) |
 |   Session 4   | [Research Methodology](https://docs.google.com/presentation/d/1AmxePSOy08vpb0zoMZzdJHxg4CtD3GiiTmjWT4TaWbE)   | [Research Proposal 3](labs/RP3.md) | |
 |   Session 5   | [Data Elicitation](https://docs.google.com/presentation/d/1fxACtYVEzFBR1Ydku6Dh4a86-L0U1dpdmWI6AEiCKcg)      | [IRB Certificate](labs/IRB.md)  | |
 |   Session 6   | [Data Preprocessing](https://docs.google.com/presentation/d/1mu9l9DevaAxvxL7I_yxRmhEJm4hr_oU8TYKWh6nCOEk)   |  [Research Proposal 4](labs/RP4.md) |    | 
